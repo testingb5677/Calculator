@@ -32,6 +32,15 @@ public class CalculatorGitHub {
         return multi;
         
     }
+    
+    //Masroshis subtraction function 
+    public static int subtract(int a,int b){
+    
+        int sub = a - b;
+    
+        return sub;
+        
+    }
        public int add()
     {
         int a = 0;
