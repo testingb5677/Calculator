@@ -32,7 +32,7 @@ public class CalculatorGitHub {
         return multi;
         
     }
-       public int add()
+       public int add2()
     {
         int a = 0;
         int b = 0;
