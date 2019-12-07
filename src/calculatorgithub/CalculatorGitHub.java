@@ -42,7 +42,10 @@ public class CalculatorGitHub {
         return sub;
         
     }
-       public int add()
+      
+
+      
+   public int add2()
     {
         int a = 0;
         int b = 0;
