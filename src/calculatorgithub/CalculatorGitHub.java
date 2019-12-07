@@ -19,6 +19,18 @@ public class CalculatorGitHub {
         
         System.out.println("This is from netbeans");
         System.out.println("to github ");
+        System.out.println("2");
+        
+        
+        
+    }
+    
+    public static int multiply(int a, int b){
+        
+        int multi = a * b;
+        
+        return multi;
+        
     }
     
 }
