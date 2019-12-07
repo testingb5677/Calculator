@@ -32,5 +32,11 @@ public class CalculatorGitHub {
         return multi;
         
     }
-    
+       public int add()
+    {
+        int a = 0;
+        int b = 0;
+        int c = a/b;
+        return c;
+    }
 }
