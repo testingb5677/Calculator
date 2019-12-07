@@ -20,7 +20,7 @@ public class CalculatorGitHub {
         System.out.println("This is from netbeans");
         System.out.println("to github ");
     }
-       public int add()
+       public int add2()
     {
         int a = 0;
         int b = 0;
